@@ -10,7 +10,7 @@
 
 export const privateKey = [
   {
-    pk: "PK1",
-    smartWalletAddress: "SMARTWALLETADDRESSOFPK1",
+    pk: "PRIVATEKEYLU",
+    smartWalletAddress: "SMARTWALLET",
   },
 ];
